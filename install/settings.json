@@ -1,0 +1,11 @@
+{
+    "samples_count": "16384",
+    "samplerate": "2000000",
+    "file_name": "tx.bin",
+    "frequency": "800000000",
+    "bandwidth": "200000",
+    "direction": 2,
+    "channel": 2,
+    "tryes": 0,
+    "gain": 50
+}
